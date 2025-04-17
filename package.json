@@ -31,3 +31,6 @@
     "vite": "^5.4.2"
   }
 }
+"scripts": {
+  "build": "vite build && cp sitemap.xml dist/ && cp robots.txt dist/"
+}
