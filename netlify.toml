@@ -1,4 +1,4 @@
 [[headers]]
-  for = "/sitemap.xml"
+  for = "/robots.txt"
   [headers.values]
-    Content-Type = "application/xml"
+    Content-Type = "text/plain"
